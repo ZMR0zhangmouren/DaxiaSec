@@ -2,5 +2,5 @@
 
 看M次数统计:
 
-![Visitor Count](https://profile-counter.glitch.me/DaxiaMM/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/DaxiaMM-new/count.svg)
 
